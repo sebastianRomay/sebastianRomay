@@ -7,7 +7,7 @@ En Junio comence a trabajar como Tutor de Desarrollo web en CoderHouse, Desde Oc
 Continuo capacitandome en nuevas tecnologias para poder conseguir un puesto laboral de Front-end Developer.
 Actualmente me estoy capacitando en Vue.js. 
 
-Y otro dato es que en 2022 empiezo a estudiar la Tecnicatura en programacion en la UNBA.
+En 2022 empiezo a estudiar la Tecnicatura en programacion en la UNBA.
 Gracias por leerme :)
 
 ## Skills:
