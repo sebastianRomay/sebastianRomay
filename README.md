@@ -33,7 +33,7 @@ Gracias por leerme :)
 
 ## Algunos de mis Proyectos:
 
-<table style="width:100%;">
+<table>
   <tr>
     <td>
 	<a href="https://rombay.000webhostapp.com/romayweb/"><img src="https://i.ibb.co/s35X21X/1.jpg" alt="1" style='width: 33%'></a>
