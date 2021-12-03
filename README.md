@@ -36,13 +36,13 @@ Gracias por leerme :)
 <table>
   <tr>
     <td>
-	<a href="https://rombay.000webhostapp.com/romayweb/"><img src="https://i.ibb.co/s35X21X/1.jpg" alt="1" style='width: 33%'></a>
+	<a href="https://rombay.000webhostapp.com/romayweb/"><img src="https://i.ibb.co/s35X21X/1.jpg" alt="1" style='width: 250px'></a>
 	</td>
     <td>
-	<a href="https://proyecto-integrador-js.vercel.app/"><img src="https://i.ibb.co/0DHDFvJ/2.png" alt="2" style='width: 33%'></a> 
+	<a href="https://proyecto-integrador-js.vercel.app/"><img src="https://i.ibb.co/0DHDFvJ/2.png" alt="2" style='width: 250px'></a> 
 	</td>
     <td>
-	<a href="https://proyecto-integrador-nucba.vercel.app/"><img src="https://i.ibb.co/rsZFNTs/3.png" alt="3" style='width: 33%'></a>
+	<a href="https://proyecto-integrador-nucba.vercel.app/"><img src="https://i.ibb.co/rsZFNTs/3.png" alt="3" style='width: 250px'></a>
 	</td>
   </tr>
   <tr>
