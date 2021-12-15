@@ -31,6 +31,27 @@ Gracias por leerme :)
 
 [![Web](https://img.shields.io/badge/Mi_Sitio_Web-14a1f0?style=for-the-badge&logo=&logoColor=white&labelColor=101010)](https://rombay.000webhostapp.com/romayweb/)
 
+
+## Algunos de mis Proyectos:
+
+<table>
+  <tr>
+    <td>
+	<a href="https://rombay.000webhostapp.com/romayweb/"><img src="https://i.ibb.co/s35X21X/1.jpg" alt="1" style='width: 250px'></a>
+	</td>
+    <td>
+	<a href="https://proyecto-integrador-js.vercel.app/"><img src="https://i.ibb.co/0DHDFvJ/2.png" alt="2" style='width: 250px'></a> 
+	</td>
+    <td>
+	<a href="https://proyecto-integrador-nucba.vercel.app/"><img src="https://i.ibb.co/rsZFNTs/3.png" alt="3" style='width: 250px'></a>
+	</td>
+  </tr>
+  <tr>
+  
+  </tr>
+</table>
+
+
 ## Contacto:
 
 [![Email](https://img.shields.io/badge/sebastian.romay1997@gmail.com-mi_email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:sebastian.romay1997@gmail.com)
