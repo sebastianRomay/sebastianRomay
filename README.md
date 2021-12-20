@@ -5,7 +5,7 @@ Comence a estudiar a principios del año 2021 de manera autodidacta. En Abril en
 En Junio comence a trabajar como Tutor de Desarrollo web en CoderHouse, Desde Octubre tambien me desempeño como Tutor de Javascript.
 
 Continuo capacitandome en nuevas tecnologias para poder conseguir un puesto laboral de Front-end Developer.
-Actualmente me estoy capacitando en Vue.js. 
+Actualmente me estoy capacitando en React. 
 
 En 2022 empiezo a estudiar la Tecnicatura en programacion en la UNBA.
 Gracias por leerme :)
@@ -18,7 +18,7 @@ Gracias por leerme :)
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white&labelColor=101010)]()
 </br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white&labelColor=101010)]()
+[![Vue](https://img.shields.io/badge/React.js-2c8da9?style=for-the-badge&logo=REACT&logoColor=white&labelColor=101010)]()
 [![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=JQuery&logoColor=white&labelColor=101010)]()
 </br>
 [![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)]()
