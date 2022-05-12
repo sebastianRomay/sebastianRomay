@@ -39,7 +39,7 @@ Gracias por leerme!
 <table>
   <tr>
     <td>
-	<a href="https://bits-ecommerce.herokuapp.com/"><img src="https://ibb.co/GxwX2sC" alt="1" style='width: 250px'></a>
+	<a href="https://bits-ecommerce.herokuapp.com/"><img src="https://i.ibb.co/GxwX2sC/Sin-t-tulo.png" alt="Sin-t-tulo" style='width: 250px' /></a>
 	</td>
     <td>
 	<a href="https://proyecto-integrador-js.vercel.app/"><img src="https://i.ibb.co/0DHDFvJ/2.png" alt="2" style='width: 250px'></a> 
