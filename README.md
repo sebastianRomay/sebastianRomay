@@ -1,14 +1,14 @@
 ### ¡Hola! Mi nombre es Sebastian Romay.
-### Soy Front-end Developer.
+### Soy Desarrollador Web UI.
 
-Comence a estudiar a principios del año 2021 de manera autodidacta. En Abril entre en un curso de desarrollo web para convertirme en Full Stack. 
-En Junio comence a trabajar como Tutor de Desarrollo web en CoderHouse, Desde Octubre tambien me desempeño como Tutor de Javascript.
-En este 2022, en Coderhouse me ofrecieron la oportunidad de seguir formandome profesionalmente en el puesto de Coordinador de Desarrollo Web.
+Comence a estudiar a finales del año 2020 de manera autodidacta. Luego ingrese en un curso de desarrollo web para convertirme en Full Stack.
+Tiempo despues comence a trabajar como Tutor de Desarrollo web y de Javascript en CoderHouse. A
+ctualmente ademas de tutor tambien ocupo el rol de `Coordinador de Desarrollo web` y trabajo como `Software Engineer en Fk Tech`
+.
+Me gusta estar en constante aprendizaje, capacitándome en diferentes tecnologias y desarrollar proyectos propios con esas tecnologias.
 
-Continuo capacitandome en nuevas tecnologias para poder conseguir un puesto laboral como Front-end Developer.
-Actualmente me estoy capacitando en React en CoderHouse. 
+Tambien comentar que soy estudiante de la 'Tecnicatura en Desarrollo web y Aplicaciones Digitales' en el Instituto Superior Politecnico de Cordoba.
 
-Soy estudiante de la 'Tecnicatura en Desarrollo web y Aplicaciones Digitales' en el Instituto Superior Politecnico de Cordoba.
 
 Gracias por leerme!
 
