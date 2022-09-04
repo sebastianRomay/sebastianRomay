@@ -1,16 +1,11 @@
 ### ¡Hola! Mi nombre es Sebastian Romay.
 ### Soy Desarrollador Web UI.
 
-Comence a estudiar a finales del año 2020 de manera autodidacta. Luego ingrese en un curso de desarrollo web para convertirme en Full Stack.
-Tiempo despues comence a trabajar como Tutor de Desarrollo web y de Javascript en CoderHouse. A
-ctualmente ademas de tutor tambien ocupo el rol de `Coordinador de Desarrollo web` y trabajo como `Software Engineer en Fk Tech`
-.
-Me gusta estar en constante aprendizaje, capacitándome en diferentes tecnologias y desarrollar proyectos propios con esas tecnologias.
+Te cuento un poco sobre mi: 
+Me considero muy proactivo, me gusta estar en constante aprendizaje y siempre investigando sobre tecnologías nuevas o que aun no manejo, Intento siempre poner en practica lo aprendido y así poder aplicar y profundizar esos conocimientos. En este repositorio podras encontrar algunos proyectos 💻
 
-Tambien comentar que soy estudiante de la 'Tecnicatura en Desarrollo web y Aplicaciones Digitales' en el Instituto Superior Politecnico de Cordoba.
-
-
-Gracias por leerme!
+Actualmente me encuentro trabajando como `Desarrollador de Software en Fk Tech` ✨
+También trabajo como `Coordinador` en los cursos de Desarrollo Web de `CoderHouse`, donde capacitamos y acompañamos a los alumnos en sus primeros pasos en este camino 🐾🐣
 
 ## Skills:
 
@@ -20,11 +15,17 @@ Gracias por leerme!
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white&labelColor=101010)]()
 </br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![Vue](https://img.shields.io/badge/React.js-2c8da9?style=for-the-badge&logo=REACT&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/React.js-2c8da9?style=for-the-badge&logo=REACT&logoColor=white&labelColor=101010)]()
 [![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=JQuery&logoColor=white&labelColor=101010)]()
 </br>
 [![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)]()
-[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white&labelColor=101010)]() 
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white&labelColor=101010)]()
+[![Jira](https://img.shields.io/badge/jira-0146B3?style=for-the-badge&logo=JIRA&logoColor=white&labelColor=101010)]() 
+</br>
+[![Confluence](https://img.shields.io/badge/confluence-0146B3?style=for-the-badge&logo=CONFLUENCE&logoColor=white&labelColor=101010)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge&logo=POSTGRESQL&logoColor=white&labelColor=101010)]()
+[![Node](https://img.shields.io/badge/Node.JS-3CB73A?style=for-the-badge&logo=NODE.JS&logoColor=white&labelColor=101010)]() 
+
 
 ## Mis Redes:
 
