@@ -29,7 +29,7 @@ También trabajo como `Coordinador` en los cursos de Desarrollo Web de `CoderHou
 [![Node](https://img.shields.io/badge/Node.JS-3CB73A?style=for-the-badge&logo=NODE.JS&logoColor=white&labelColor=101010)]() 
 </br>
 </br>
-[![Gitlab]([https://img.shields.io/badge/Node.JS-3CB73A?style=for-the-badge&logo=NODE.JS&logoColor=white&labelColor=101010](https://img.shields.io/badge/Gitlab-fc6d26?style=for-the-badge&logo=GITLAB&logoColor=white&labelColor=101010))]() 
+[![Gitlab](https://img.shields.io/badge/Gitlab-fc6d26?style=for-the-badge&logo=GITLAB&logoColor=white&labelColor=101010)]() 
 [![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)]()
 
 
