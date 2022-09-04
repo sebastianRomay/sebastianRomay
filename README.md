@@ -31,7 +31,7 @@ También trabajo como `Coordinador` en los cursos de Desarrollo Web de `CoderHou
 </br>
 [![Gitlab](https://img.shields.io/badge/Gitlab-fc6d26?style=for-the-badge&logo=GITLAB&logoColor=white&labelColor=101010)]() 
 [![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)]()
-[![GIT](https://img.shields.io/badge/Gitlab-171515?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=101010)]()
+[![GIT](https://img.shields.io/badge/Github-171515?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=101010)]()
 
 
 ## Mis Redes:
