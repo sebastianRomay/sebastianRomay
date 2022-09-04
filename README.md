@@ -32,7 +32,13 @@ También trabajo como `Coordinador` en los cursos de Desarrollo Web de `CoderHou
 [![Gitlab](https://img.shields.io/badge/Gitlab-fc6d26?style=for-the-badge&logo=GITLAB&logoColor=white&labelColor=101010)]() 
 [![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)]()
 [![GIT](https://img.shields.io/badge/Github-171515?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=101010)]()
-
+</br>
+<div align="center">
+  <a href="https://github.com/sebastianRomay">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sebastianRomay&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianRomay&theme=highcontrast&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
 ## Mis Redes:
 
@@ -65,3 +71,9 @@ También trabajo como `Coordinador` en los cursos de Desarrollo Web de `CoderHou
 ## Contacto:
 
 [![Email](https://img.shields.io/badge/sebastian.romay1997@gmail.com-mi_email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:sebastian.romay1997@gmail.com)
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
