@@ -5,7 +5,7 @@ Te cuento un poco sobre mi:
 Me considero muy proactivo, me gusta estar en constante aprendizaje y siempre investigando sobre tecnologías nuevas o que aun no manejo, Intento siempre poner en practica lo aprendido y así poder aplicar y profundizar esos conocimientos. En este repositorio podras encontrar algunos proyectos 💻
 
 Actualmente me encuentro trabajando como `Desarrollador de Software en Fk Tech` ✨
-También trabajo como `Coordinador` en los cursos de Desarrollo Web de `CoderHouse`, donde capacitamos y acompañamos a los alumnos en sus primeros pasos en este camino IT 🐾🐣
+También trabajo como `Profesor` en los cursos de Desarrollo Web de `CoderHouse`
 
 ## Skills:
 
