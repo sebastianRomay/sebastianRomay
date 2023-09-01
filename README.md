@@ -37,11 +37,6 @@ También trabajo como `Profesor` en los cursos de Desarrollo Web de `CoderHouse`
   </a>
 </div>
 
-/* ## Mis Redes:
-
-[![Instagram](https://img.shields.io/badge/Instagram-@sebastian_agustin-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/sebastian_agustin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian_Romay-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sebastianromay) */
-
 
 
 
