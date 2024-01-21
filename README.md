@@ -38,34 +38,6 @@ También trabajo como `Profesor` en los cursos de Desarrollo Web de `CoderHouse`
 </div>
 
 
-
-
-## Algunos de mis Proyectos:
-
-<table>
-  <tr>
-    <td>
-	<a href="https://bits-ecommerce.herokuapp.com/"><img src="https://i.ibb.co/C1dq7JV/Sin-t-tulo.png" alt="Sin-t-tulo" style='width: 100%' /></a>
-	</td>
-    <td>
-	<a href="https://proyecto-integrador-js.vercel.app/"><img src="https://i.ibb.co/0DHDFvJ/2.png" alt="2" style='width: 100%'></a> 
-	</td>
-    <td>
-	<a href="https://proyecto-integrador-nucba.vercel.app/"><img src="https://i.ibb.co/rsZFNTs/3.png" alt="3" style='width: 100%'></a>
-	</td>
-  </tr>
-  <tr>
-  
-  </tr>
-</table>
-
-
 ## Contacto:
 
 [![Email](https://img.shields.io/badge/sebastian.romay1997@gmail.com-mi_email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:sebastian.romay1997@gmail.com)
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
