@@ -1,8 +1,7 @@
 ### ¡Hola! Mi nombre es Sebastian Romay.
 ### Soy Desarrollador Web Front End
 
-Actualmente me encuentro trabajando como `Desarrollador de Software en Fk Tech` 
-También trabajo como `Profesor` en los cursos de Desarrollo Web y React Js de `CoderHouse`
+Actualmente me encuentro trabajando como `Desarrollador de Software en Fk Tech`.
 
 ## Skills:
 
