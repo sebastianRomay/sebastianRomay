@@ -12,18 +12,23 @@ También trabajo como `Profesor` en los cursos de Desarrollo Web y React Js de `
 </br>
 </br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![React](https://img.shields.io/badge/React.js-2c8da9?style=for-the-badge&logo=REACT&logoColor=white&labelColor=101010)]()
+[![React JS](https://img.shields.io/badge/React.js-2c8da9?style=for-the-badge&logo=REACT&logoColor=white&labelColor=101010)]()
 [![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=JQuery&logoColor=white&labelColor=101010)]()
+</br>
+</br>
+[![Next JS](https://img.shields.io/badge/NEXTJS-bbbbbb?style=for-the-badge&logo=NEXT.JS&logoColor=white&labelColor=101010)]()
+[![Typescript](https://img.shields.io/badge/TYPESCRIPT-21759B?style=for-the-badge&logo=TYPESCRIPT&logoColor=white&labelColor=101010)]()
+[![MUI](https://img.shields.io/badge/MUI-0064a5?style=for-the-badge&logo=MUI&logoColor=white&labelColor=101010)]()
 </br>
 </br>
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white&labelColor=101010)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white&labelColor=101010)]()
-[![Jira](https://img.shields.io/badge/jira-0146B3?style=for-the-badge&logo=JIRA&logoColor=white&labelColor=101010)]() 
+[![Redux](https://img.shields.io/badge/REDUX-764abc?style=for-the-badge&logo=REDUX&logoColor=white&labelColor=101010)]() 
 </br>
 </br>
 [![Confluence](https://img.shields.io/badge/confluence-0146B3?style=for-the-badge&logo=CONFLUENCE&logoColor=white&labelColor=101010)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge&logo=POSTGRESQL&logoColor=white&labelColor=101010)]()
-[![Node](https://img.shields.io/badge/Node.JS-3CB73A?style=for-the-badge&logo=NODE.JS&logoColor=white&labelColor=101010)]() 
+[![Node JS](https://img.shields.io/badge/Node.JS-3CB73A?style=for-the-badge&logo=NODE.JS&logoColor=white&labelColor=101010)]() 
+[![Jira](https://img.shields.io/badge/jira-0146B3?style=for-the-badge&logo=JIRA&logoColor=white&labelColor=101010)]() 
 </br>
 </br>
 [![Gitlab](https://img.shields.io/badge/Gitlab-fc6d26?style=for-the-badge&logo=GITLAB&logoColor=white&labelColor=101010)]() 
