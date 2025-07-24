@@ -20,7 +20,6 @@ Actualmente me encuentro trabajando como `Desarrollador de Software en Fk Tech`.
 [![MUI](https://img.shields.io/badge/MUI-0064a5?style=for-the-badge&logo=MUI&logoColor=white&labelColor=101010)]()
 </br>
 </br>
-[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white&labelColor=101010)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white&labelColor=101010)]()
 [![Redux](https://img.shields.io/badge/REDUX-764abc?style=for-the-badge&logo=REDUX&logoColor=white&labelColor=101010)]() 
 </br>
